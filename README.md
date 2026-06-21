@@ -1,14 +1,9 @@
-Literature Reading
+A small reading space for curious minds.
 
-A repository for books, ideas, and questions.
+This repository is dedicated to books that invite reflection, challenge assumptions, and open new ways of thinking about the world. Most of them are not practical guides or self-help manuals, but works that explore ideas, systems, history, technology, philosophy, society, and the human condition.
 
-This is a shared space for reading notes, reflections, and intellectual exploration. The books collected here are connected less by discipline than by a common tendency: they help us think more deeply about how the world works and why people behave the way they do.
+The goal is not to produce book reviews or definitive interpretations. Instead, this space serves as a collection of notes, questions, insights, and connections that emerge during the reading process.
 
-Rather than focusing on practical advice, the collection gravitates toward ideas, systems, history, philosophy, technology, society, and other subjects that reward careful thought.
+Friends and fellow readers are welcome to contribute their own reflections, reading notes, and recommendations. Different interpretations are encouraged. A good book rarely gives answers. More often, it leaves us with better questions.
 
-Contributions are welcome. Feel free to add notes, reflections, questions, or recommendations. The purpose is not agreement, but exploration.
-
-Some books change what we know.
-Others change how we think.
-
-This repository is for the latter.
+Reading is one of the few conversations that can transcend time, language, and geography. This repository exists to continue that conversation.
