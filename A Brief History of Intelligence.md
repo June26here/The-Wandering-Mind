@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://covers.openlibrary.org/b/isbn/9780008560133-L.jpg" alt="A Brief History of Intelligence book cover" width="180"/>
-
 # A Brief History of Intelligence
 
-**Book:** *A Brief History of Intelligence*  
-**Author:** Max Bennett  
-**Theme:** Evolution · Neuroscience · AI · Human Intelligence  
+### Evolution, AI, and the Five Breakthroughs That Made Our Brains
+
+**Max Bennett**
+
+`Evolution` · `Neuroscience` · `AI` · `Human Intelligence`
 
 > How did intelligence happen the first time, and what can that tell us about the future of artificial intelligence?
 
