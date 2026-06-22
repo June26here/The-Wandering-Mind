@@ -3,6 +3,7 @@
 # The Tyranny of Merit
 
 **Author:** Michael J. Sandel  
+
 **Theme:** `Meritocracy` · `Dignity of Work` · `Justice` · `Humility` · `Common Good`
 
 > A society that explains success only through merit will eventually turn both success and failure into moral judgments.
