@@ -5,6 +5,7 @@
 ### The Power of Passion and Perseverance
 
 **Author:** Angela Duckworth  
+
 **Theme:** `Perseverance` · `Deliberate Practice` · `Growth Mindset` · `Long-Term Goals`
 
 > Meaningful achievement is less about never changing course, and more about staying loyal to a deeper direction while learning how to adapt.
