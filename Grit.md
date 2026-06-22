@@ -6,6 +6,8 @@
 
 **Author:** Angela Duckworth  
 
+**Finished:** 2026-05-27
+
 **Theme:** `Perseverance` · `Deliberate Practice` · `Growth Mindset` · `Long-Term Goals`
 
 > Meaningful achievement is less about never changing course, and more about staying loyal to a deeper direction while learning how to adapt.

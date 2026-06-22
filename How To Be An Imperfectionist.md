@@ -4,6 +4,8 @@
 
 **Author:** Stephen Guise  
 
+**Finished:** 2025-09-30
+
 **Theme:** `Perfectionism` · `Action` · `Self-Acceptance` · `Fear of Judgment`
 
 > Perfectionism often looks like high standards, but underneath it may be a quiet search for permission.

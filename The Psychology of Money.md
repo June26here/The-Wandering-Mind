@@ -6,6 +6,8 @@
 
 **Author:** Morgan Housel  
 
+**Finished:** 2025-12-05
+
 **Theme:** `Money` · `Compounding` · `Risk` · `Freedom` · `Behavior`
 
 > Money is not only mathematics. It is a mirror of time, fear, desire, status, and imagination.

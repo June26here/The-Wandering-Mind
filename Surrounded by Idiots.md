@@ -4,6 +4,8 @@
 
 **Author:** Thomas Erikson 
 
+**Finished:** 2026-02-28
+
 **Theme:** `Communication` · `Behavioral Styles` · `Self-Awareness` · `Adaptation`
 
 > The problem is rarely that everyone else is impossible. More often, people are speaking different behavioral languages.

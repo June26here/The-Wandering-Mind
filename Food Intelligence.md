@@ -6,6 +6,8 @@
 
 **Author:** Julia Belluz  
 
+**Finished:** 2026-04-30
+
 **Theme:** `Nutrition Science` · `Food Environment` · `Ultra-Processed Foods` · `Public Health`
 
 > Eating is not only a private choice. It is also the result of systems that shape what is available, affordable, desirable, and normal.

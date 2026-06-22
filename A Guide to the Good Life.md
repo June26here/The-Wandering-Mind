@@ -6,6 +6,8 @@
 
 **Author:** William B. Irvine  
 
+**Finished:** 2025-12-16
+
 **Theme:** `Stoicism` · `Tranquility` · `Self-Control` · `Desire` · `Freedom`
 
 > The Stoic project is not emotional numbness. It is the protection of inner freedom from unnecessary disturbance.

@@ -4,6 +4,8 @@
 
 **Author:** Michael J. Sandel  
 
+**Finished:** 2025-11-30
+
 **Theme:** `Meritocracy` · `Dignity of Work` · `Justice` · `Humility` · `Common Good`
 
 > A society that explains success only through merit will eventually turn both success and failure into moral judgments.

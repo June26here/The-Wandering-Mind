@@ -4,6 +4,8 @@
 
 **Author:** Zygmunt Bauman  
 
+**Finished:** 2026-03-24
+
 **Theme:** `Consumer Society` · `Work Ethic` · `Welfare` · `Modernity` · `Social Exclusion`
 
 > In a consumer society, poverty is not only a lack of money. It is also a loss of recognized social place.
