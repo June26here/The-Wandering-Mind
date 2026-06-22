@@ -6,7 +6,7 @@
 
 **Author:** Max Bennett
 
-`Evolution` · `Neuroscience` · `AI` · `Human Intelligence`
+**Theme:** `Evolution` · `Neuroscience` · `AI` · `Human Intelligence`
 
 > How did intelligence happen the first time, and what can that tell us about the future of artificial intelligence?
 
