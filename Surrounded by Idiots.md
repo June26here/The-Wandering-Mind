@@ -2,7 +2,8 @@
 
 # Surrounded by Idiots
 
-**Author:** Thomas Erikson  
+**Author:** Thomas Erikson 
+
 **Theme:** `Communication` · `Behavioral Styles` · `Self-Awareness` · `Adaptation`
 
 > The problem is rarely that everyone else is impossible. More often, people are speaking different behavioral languages.
