@@ -3,6 +3,7 @@
 # Work, Consumerism and the New Poor
 
 **Author:** Zygmunt Bauman  
+
 **Theme:** `Consumer Society` · `Work Ethic` · `Welfare` · `Modernity` · `Social Exclusion`
 
 > In a consumer society, poverty is not only a lack of money. It is also a loss of recognized social place.
