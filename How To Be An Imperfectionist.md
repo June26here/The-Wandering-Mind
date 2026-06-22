@@ -3,6 +3,7 @@
 # How To Be An Imperfectionist
 
 **Author:** Stephen Guise  
+
 **Theme:** `Perfectionism` · `Action` · `Self-Acceptance` · `Fear of Judgment`
 
 > Perfectionism often looks like high standards, but underneath it may be a quiet search for permission.
