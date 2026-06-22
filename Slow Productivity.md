@@ -3,6 +3,7 @@
 # Slow Productivity
 
 **Author:** Cal Newport  
+
 **Theme:** `Knowledge Work` · `Long-Termism` · `Deep Work` · `Natural Pace` · `Sustainable Rhythm`
 
 > Productivity is not about doing more things faster. It is about finding a rhythm that allows important work to last.
