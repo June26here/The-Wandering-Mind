@@ -5,6 +5,7 @@
 ### The Ancient Art of Stoic Joy
 
 **Author:** William B. Irvine  
+
 **Theme:** `Stoicism` · `Tranquility` · `Self-Control` · `Desire` · `Freedom`
 
 > The Stoic project is not emotional numbness. It is the protection of inner freedom from unnecessary disturbance.
