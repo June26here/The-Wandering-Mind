@@ -5,6 +5,7 @@
 ### Timeless Lessons on Wealth, Greed, and Happiness
 
 **Author:** Morgan Housel  
+
 **Theme:** `Money` · `Compounding` · `Risk` · `Freedom` · `Behavior`
 
 > Money is not only mathematics. It is a mirror of time, fear, desire, status, and imagination.
