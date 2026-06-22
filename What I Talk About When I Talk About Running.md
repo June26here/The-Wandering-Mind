@@ -5,6 +5,7 @@
 **Author:** Haruki Murakami  
 
 **Finished:** 2025-11-05
+
 **Theme:** `Running` · `Writing` · `Discipline` · `Solitude`
 
 > Long repetition can turn an ordinary act into a private form of thinking.

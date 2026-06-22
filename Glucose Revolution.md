@@ -5,6 +5,7 @@
 **Author:** Jessie Inchauspé  
 
 **Finished:** 2025-09-16
+
 **Theme:** `Nutrition` · `Blood Sugar` · `Metabolic Health` · `Habits`
 
 > Food habits become easier to change when they are treated as experiments in sequence, environment, and bodily response.

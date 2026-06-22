@@ -5,6 +5,7 @@
 **Author:** Mariana Mazzucato  
 
 **Finished:** 2024-10-22
+
 **Theme:** `Innovation Policy` · `State Capacity` · `Public Investment` · `Political Economy`
 
 > Innovation is often narrated as private genius, but many of its deepest risks have been carried by the public sector.

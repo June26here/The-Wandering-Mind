@@ -5,6 +5,7 @@
 **Author:** Cal Newport  
 
 **Finished:** 2025-10-04
+
 **Theme:** `Learning` · `Academic Work` · `Writing` · `Study Systems`
 
 > Academic success becomes less mysterious when large tasks are broken into clear, repeatable systems.

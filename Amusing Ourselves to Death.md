@@ -7,6 +7,7 @@
 **Author:** Neil Postman  
 
 **Finished:** 2024-02-06
+
 **Theme:** `Media` · `Public Discourse` · `Attention` · `Technology Critique`
 
 > A culture does not only think through ideas; it thinks through its dominant medium.

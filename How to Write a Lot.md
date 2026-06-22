@@ -5,6 +5,7 @@
 **Author:** Paul J. Silvia  
 
 **Finished:** 2022-02-19
+
 **Theme:** `Academic Writing` · `Research Habits` · `Productivity` · `Discipline`
 
 > Writing becomes less dependent on inspiration when it is treated as scheduled work.

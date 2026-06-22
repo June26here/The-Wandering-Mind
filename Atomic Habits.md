@@ -5,6 +5,7 @@
 **Author:** James Clear  
 
 **Finished:** 2024-05-27
+
 **Theme:** `Habits` · `Identity` · `Compounding` · `Behavior Design`
 
 > Change becomes durable when small actions start casting votes for a new identity.

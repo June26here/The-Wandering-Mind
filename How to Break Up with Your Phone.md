@@ -5,6 +5,7 @@
 **Author:** Catherine Price  
 
 **Finished:** 2023-01-05
+
 **Theme:** `Attention` · `Digital Life` · `Phone Habits` · `Autonomy`
 
 > Reclaiming attention begins by noticing that the phone is not just a tool; it is also an environment designed to train behavior.

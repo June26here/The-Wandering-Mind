@@ -5,6 +5,7 @@
 **Author:** Cal Newport  
 
 **Finished:** 2025-10-16
+
 **Theme:** `Focus` · `Knowledge Work` · `Learning` · `Attention`
 
 > In a noisy economy, the ability to concentrate becomes both a professional advantage and a way to live better.
