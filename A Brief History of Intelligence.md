@@ -4,7 +4,7 @@
 
 ### Evolution, AI, and the Five Breakthroughs That Made Our Brains
 
-**Max Bennett**
+**Author:** Max Bennett
 
 `Evolution` · `Neuroscience` · `AI` · `Human Intelligence`
 
